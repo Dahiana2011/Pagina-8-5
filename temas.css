@@ -27,29 +27,29 @@ color: brown;
 .matematicas{
 
     width: 100%;
-    height: 720px;
+    height: 2000px;
     background-color:blue;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 25px;
+    font-size: 28px;
 }
 .biologia{
 
     width: 100%;
-    height: 720px;
+    height: 820px;
     background-color:rgb(243, 9, 9);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
 }
 .quimica{
     width: 100%;
-    height: 720px;
+    height: 820px;
     background-color:gray;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
 }
 .tecnologia{
     width: 100%;
-    height: 720px;
+    height: 820px;
     background-color:orangered;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
