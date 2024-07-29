@@ -16,3 +16,26 @@ body{
     
 
 }
+.imgT{
+height: 300px;
+width: 300px;
+float: left;
+background-image: url("imgT.png");
+}
+.titulo{
+    text-align: center;
+    font-size: 50px;
+color: rgb(19, 164, 201);
+}
+.imgD{
+    height: 300px;
+    width: 300px;
+    float: left;
+    background-image: url("dahiana.jpg");
+}
+.imgSi{
+height: 300px;
+width: 300px;
+float: left;
+background-image: url("simon.jpg");
+}
