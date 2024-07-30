@@ -2,10 +2,10 @@
 
 .texto{
    
-    font-size: 50px;
-    padding-top: 140px;
+    font-size: 30px;
+    padding-top: 40px;
     text-align: justify;
-    color: rgb(20, 20, 20);
+    color: rgb(68, 201, 68);
 }
 .principal{
    display: flex;
@@ -25,7 +25,7 @@ background-image: url("imgT.png");
 .titulo{
     text-align: center;
     font-size: 50px;
-color: rgb(19, 164, 201);
+color: rgb(250, 4, 4);
 }
 .imgD{
     height: 300px;
@@ -39,3 +39,46 @@ width: 300px;
 float: left;
 background-image: url("simon.jpg");
 }
+.imgM1{
+height: 300px;
+width: 532px;
+float: left;
+background-image: url(imgM1.PNG);
+}
+.imgM2{
+height: 272px;
+width: 428px;
+background-image: url(imgM2.jpg);
+float: left;
+}
+.imgM3{
+height: 350px;
+width: 290px;
+background-image: url(imgM3.png);
+float: left;
+}
+.imgM4{
+    height: 350px;
+    width: 685px;
+    background-image: url(imgM4.JPG);
+    float: left;
+    }
+    .titulo2{
+        text-align: center;
+        font-size: 50px;
+    color: rgb(250, 4, 4);
+    }
+    .imgM5{
+height: 270px;
+width: 270px;
+background-image: url(imgM5.png);
+float: left;
+background-repeat: no-repeat;
+    }
+    .imgM6{
+        height: 725px;
+        width: 869px;
+        background-image: url(imgM6.webp);
+        float: left;
+        background-repeat: no-repeat;
+            }
