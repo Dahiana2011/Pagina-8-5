@@ -5,7 +5,7 @@
     font-size: 30px;
     padding-top: 40px;
     text-align: justify;
-    color: rgb(68, 201, 68);
+    color: rgb(40, 46, 40);
 }
 .principal{
    display: flex;
@@ -62,23 +62,37 @@ float: left;
     width: 685px;
     background-image: url(imgM4.JPG);
     float: left;
-    }
+}
     .titulo2{
         text-align: center;
         font-size: 50px;
     color: rgb(250, 4, 4);
-    }
-    .imgM5{
+}
+.imgM5{
 height: 270px;
-width: 270px;
+width: 216px;
 background-image: url(imgM5.png);
 float: left;
 background-repeat: no-repeat;
-    }
-    .imgM6{
+}
+.imgM6{
         height: 725px;
         width: 869px;
         background-image: url(imgM6.webp);
         float: left;
         background-repeat: no-repeat;
-            }
+ }
+.imgM7{
+height: 300px;
+width: 214px;
+background-image: url(imgM7.png);
+float: left;
+background-repeat: no-repeat; 
+}
+.imgM8{
+height: 300px;
+width: 670px;
+background-image: url(imgM8.jpg);
+float: left;
+background-repeat: no-repeat;
+}
