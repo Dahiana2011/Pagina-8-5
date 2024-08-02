@@ -5,7 +5,7 @@
     font-size: 30px;
     padding-top: 40px;
     text-align: justify;
-    color: rgb(40, 46, 40);
+    color: rgb(116, 121, 116);
 }
 .principal{
    display: flex;
@@ -95,4 +95,31 @@ width: 670px;
 background-image: url(imgM8.jpg);
 float: left;
 background-repeat: no-repeat;
+}
+.imgQ{
+height: 300px;
+width: 300px;
+background-image: url(imgQ.png);
+background-repeat: no-repeat;
+}
+.imgB{
+height: 212px;
+width: 237px;
+background-image: url(imgB.png);
+float: left;
+background-repeat: no-repeat;
+}
+.imgB2{
+height: 388px;
+width: 500px;
+background-image: url(imgB2.jpg);
+float: left;
+background-repeat: no-repeat;
+}
+.imgB3{
+height: 618px;
+width: 824px;
+background-image: url(imgB3.png);
+float: left;
+background-repeat: repeat;
 }
