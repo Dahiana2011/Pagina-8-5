@@ -130,3 +130,9 @@ width: 300px;
 background-image: url(nicolas.jpeg);
 float: left;
 }
+.imgS{
+height: 929px;
+width: 1339px;
+background-image: url(imgS.png);
+background-repeat: no-repeat;
+}
