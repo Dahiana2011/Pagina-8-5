@@ -148,4 +148,9 @@ float: left;
     background-image: url(dahiana2.jpg);
     float: left;
 }
-{}
+.imgSi2{
+    height: 1024px;
+    width: 1024px;
+    background-image: url(simon2.jpg);
+    float: left;
+}
