@@ -154,3 +154,9 @@ float: left;
     background-image: url(simon2.jpg);
     float: left;
 }
+.imgLogo{
+    height: 1024px;
+    width: 1024px;
+    background-image: url(Logo.jpg);
+    float: left;
+}
