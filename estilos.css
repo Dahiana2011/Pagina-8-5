@@ -225,3 +225,23 @@ height: 654px;
 width: 1068px;
 background-image: url(img3Q.jpg);
 }
+.img3B{
+height: 400px;
+width: 750px;
+background-image: url(img3B1.jpeg);
+}
+.img3B2{
+ height: 285px;
+ width: 670px;
+background-image: url(img3B2.jpeg);
+ }
+.img3B3{
+ height: 900px;
+ width: 900px;
+ background-image: url(img3B3.jpeg);
+}
+.img3B4{
+ height: 680px;
+ width: 1600px;
+  background-image: url(img3B4.jpeg);
+ }
